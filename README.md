@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Rajat%20Jana&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Agentic%20AI%20Developer%20%7C%20AI%20Governance%20%26%20Guardrails&descAlignY=58&descSize=20" width="100%" />
+<img src="banner.svg" alt="Rajat Jana - Agentic AI Developer" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=00D4FF&center=true&vCenter=true&width=750&lines=Building+guardrails+for+autonomous+AI+agents+%F0%9F%9B%A1%EF%B8%8F;Policy-as-code+for+AI+%26+ICT+governance+%F0%9F%93%9C;Making+AI+safe%2C+compliant+and+auditable+%E2%9C%85" alt="Typing SVG" />
+**Building guardrails for autonomous AI agents · Policy-as-code for AI & ICT governance · Making AI safe, compliant and auditable**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=RajatJana&label=Profile%20Views&color=0e75b6&style=flat)
 [![Followers](https://img.shields.io/github/followers/RajatJana?style=flat&logo=github&color=2c5364)](https://github.com/RajatJana?tab=followers)
@@ -112,6 +112,5 @@ Interested in AI safety, agent guardrails or governance tooling? Let's talk.
 
 💡 *"Powerful agents need strong guardrails."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" />
 
 </div>
